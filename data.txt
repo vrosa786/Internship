@@ -1,1 +1,3 @@
-August 15 1947
+"example (.com)", "hr@fliprobo (.com)", "github (.com)", "Hello (Data Science World)", "Data (Scientist)"
+
+Output : "example ", "hr@fliprobo ", "github ", "Hello ", "Data "
